@@ -17,6 +17,8 @@ body {
 }
 
 .jumbotron {
+     color : white;
+     font-size : 46px;
 	position: relative;
 	background: none;
 }
@@ -31,4 +33,24 @@ body {
      right: 0;
      position: absolute;
      z-index: -1;	
+}
+
+
+
+.project p {
+     font-variant: small-caps;
+     background-color: black;
+     color: #85C1E9;
+     font-size:28px;
+}
+
+h4 {
+     color: white;
+}
+p {
+     color : white;
+}
+body {
+
+     background-color: #0F0F0F;
 }
